@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package user;
+
+option go_package="./server";
+
+service UserService {
+  
+}
+
+message Empty {}

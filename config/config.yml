@@ -1,0 +1,12 @@
+mode: TEST
+logLevel: INFO
+amapKey: <set you amap key>
+autoFreshTime: 00:00:00
+http:
+  enable: true
+  debug: false
+  port: 10011
+grpc:
+  enable: true
+  debug: false
+  port: 10012
